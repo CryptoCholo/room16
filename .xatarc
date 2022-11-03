@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://offorifeanayor-s-workspace-lrfjje.eu-west-1.xata.sh/db/RM16",
+  "codegen": {
+    "output": "src/xata.js",
+    "moduleType": "esm"
+  }
+}
